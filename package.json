@@ -1,0 +1,56 @@
+{
+  "name": "favian",
+  "version": "1.0.1",
+  "description": "Favian",
+  "main": "favian.js",
+  "scripts": {
+    "start": "node favian.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/favilances/favian.git"
+  },
+  "keywords": [
+    "favian"
+  ],
+  "author": "Favilances",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/favilances/favian/issues"
+  },
+  "homepage": "https://github.com/favilances/favian#readme",
+  "dependencies": {
+    "@codedipper/random-code": "^2.1.2",
+    "chalk": "^4.1.1",
+    "connect-flash": "^0.1.1",
+    "deasync": "^0.1.22",
+    "discord-buttons": "^3.2.1",
+    "discord-logs": "^2.0.0",
+    "discord-menu-buttons": "^1.4.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "efdb": "^1.2.0-beta",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "fs": "0.0.1-security",
+    "gcommands": "^4.3.0",
+    "makeid": "^1.0.3",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "neenhilajs": "^1.0.1",
+    "node-fetch": "^2.6.1",
+    "npm.db": "^2.0.7",
+    "nukleon": "0.0.2",
+    "passport": "^0.4.1",
+    "passport-discord": "^0.1.4",
+    "path": "^0.12.7",
+    "randomcode": "^1.0.1",
+    "twemoji-parser": "^13.1.0",
+    "zoro-utils": "^3.7.4"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
